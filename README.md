@@ -1,2 +1,3 @@
 # Intro to IM
-Self Portrait + Reading Response
+
+Week 8: Self Portrait + Reading Response
