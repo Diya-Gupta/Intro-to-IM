@@ -21,9 +21,6 @@ void draw() {
       int y = w*big_square_length; // new y-axis point for next big square
       rect(x, y, big_square_length, big_square_length); // making the big square
 
-      float new_x_point = random(x, x+big_square_length - smallest_square_length); //finding a random number for starting point of the smallest square
-      float new_y_point = random(y, y+big_square_length - smallest_square_length);
-      rect(new_x_point, new_y_point, 20, 20);
 
       // making the smaller squares
       float sq_num = random(10, 15);
