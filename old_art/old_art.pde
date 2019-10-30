@@ -24,7 +24,7 @@ void draw() {
 
       // making the smaller squares
       float sq_num = random(10, 15);
-      for (int k = 0; k < random(2, 5); k++) {
+      for (int k = 0; k < random(3, 6); k++) {
         rect(x+(k*sq_num), y+(k*sq_num), big_square_length-(k*20), big_square_length-(k*20));
       }
 
