@@ -6,7 +6,9 @@
  Clicking on the ball goves you one point and
  clicking anywhere else on the screen reduces your lives. 
  The aim of the game is to get as many points as possible 
- with the given number of lives.*/
+ with the given number of lives.
+ 
+ */
 
 
 Ball b1;
