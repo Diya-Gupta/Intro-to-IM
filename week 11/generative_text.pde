@@ -1,3 +1,10 @@
+/* Generative Text Output Assignment by Diya Gupta
+
+Click inside any of the three areas on the screen to change the subject, object, or the verb of the
+sentence being displayed and form new, funny sentences!
+
+*/
+
 PFont f; //initializing the font
 float x, y; //coordinates of text
 int newSubject = 1;
