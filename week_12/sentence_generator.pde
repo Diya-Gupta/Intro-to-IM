@@ -46,6 +46,22 @@ void draw() {
   text(object[newObject], 3.25*width/4, y); //printing the object
 }
 
+void serialEvent(Serial myPort) {
+  int inByte = myPort.read();
+  if (inByte == 'A') {
+    newSubject = int(random(subject.length));
+  }
+  if (inByte == 'B') {
+    newVerb = int(random(verb.length));
+  }
+  if (inByte == 'C') {
+    newObject = int(random(object.length));
+  }
+  fill(random(255), random(255), random(255));
+}
+
+/***** Code from earlier version of sentence generator without using Arduino *****/
+
 //void mousePressed() {
 //  if (mouseX < width/3) {
 //    newSubject = int(random(subject.length));
@@ -60,17 +76,3 @@ void draw() {
 //    fill(random(255), random(255), random(255));
 //  }
 //}
-
-void serialEvent(Serial myPort) {
-  int inByte = myPort.read();
-  if (inByte == 'A') {
-    newSubject = int(random(subject.length));
-  }
-  if (inByte == 'B') {
-    newVerb = int(random(verb.length));
-  }
-  if (inByte == 'C') {
-    newObject = int(random(object.length));
-  }
-  fill(random(255), random(255), random(255));
-}
