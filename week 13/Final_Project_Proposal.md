@@ -1,4 +1,4 @@
-PROJECT DESCRIPTION:
+##PROJECT DESCRIPTION:
 
 Through my final project I would like to spread the urgent message of how important it is to shift to more sustainable ways of living in order for us to be able to save the planet from collapsing in a few years. In my project I will have different sets of activities but each activity will have a pair of "ways" attached to it. For example, if the activity is drinking water, the two ways to get water would be using a plastic bottle and using a reusable bottle. These will be printouts. Each way will have a separate RFID tag attached to it. I will also have an RFID tag reade and a screen that shows your impact on the environment as part of the installation.
 
