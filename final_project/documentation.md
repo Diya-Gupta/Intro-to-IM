@@ -17,6 +17,8 @@ PICTURES OF ELECTRONICS
 
 CODE
 
+[a relative link](fine.ino)
+
 HOW MY PROJECT WORKS AND HOW I BUILT IT
 
 My project uses RFID tags that I taped into the tags for each method and an RFID tag reader that reads the information. I then used Arduino to send the information about which tag was scanned to Processing by creating a variabe called cardid. I used Serial.write to assign a letter to each tag after it was scanned and then Processing would read the ASCII code for each letter and print information on the screen accordingly. I also included variables in Processing that would count the number of times a tag is scanned to make sure that people don't count the same tag twice and also to ensure that only one method from each activity is scanned for every user.
