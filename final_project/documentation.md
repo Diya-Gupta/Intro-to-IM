@@ -7,13 +7,15 @@ On scanning each activity, the user would see how much CO2 is being emitted afte
 SYSTEM DIAGRAM
 ![Image description](https://github.com/Diya-Gupta/Intro-to-IM/blob/master/final_project/IMG_20191214_102343.jpg)
 
+
 IMPORTANT PARTS
 1. RFID tags
 2. Adarfuit PN532 Breakout Board (RFID Reader)
 
 PICTURES OF ELECTRONICS
 
-
+![Image description](https://github.com/Diya-Gupta/Intro-to-IM/blob/master/final_project/IMG_20191212_211636.jpg)
+![Image description](https://github.com/Diya-Gupta/Intro-to-IM/blob/master/final_project/IMG_20191212_211647.jpg)
 
 CODE
 
