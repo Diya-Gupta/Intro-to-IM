@@ -37,6 +37,10 @@ One of the major problems that I faced was my RedBoard not working a day before 
 
 USER TESTING
 
+Links to videos:
+1.  https://drive.google.com/file/d/1MSvzA_3gzBWQDW56p72yPfDqu-9FtuxO/view?usp=sharing
+2.  https://drive.google.com/file/d/1MW7VjoEDyRL30564BnfKY18JV9DaCC8x/view?usp=sharing
+
 During my user testing I did not receive much feedback to change the user experience part of the project. All the feedback was to include more information on the last screen. However I did not want to change that since the entire idea of the project was to give them the basic information so that they would be curious to read more about this topic and do some research on their own so that they would find out more than what was presented on the screen by my project.
 
 Another feedback was to keep the drinking water activity tags and the drinking coffee activity tags on the tables away from each other rather than next to each other since it was confusing to see two similar activities together.
