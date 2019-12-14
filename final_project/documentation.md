@@ -5,7 +5,7 @@ My project was a carbon footprint calculator. At the start of the game players w
 On scanning each activity, the user would see how much CO2 is being emitted after that activity is performed as well as the total CO2 used by the user by adding up the carboon for all activities scanned. After they scan all four activites, they are taken to another screen where they see their total carboon footprint as well as alternative, sustainable methods for activities that they are performing with unsustainable methods right now. I wanted to include this so that every user could see how much they would reduce their carbon footprint if they used the more sustainable method by including information about the unsustainable method they use right now as well as about the alternative mehod. Many people were surprised to see the difference in the numbers. This screen was different for every user. This screen was the most important ine since it executed the main idea behind the project -- to spread awareness about the difference a small activity can make in terms of your carbon footprint. I think the project was successful in spreading awareness to some extent since many people asked me a bunch of questions about carboon footprint and sustainable methods after they saw the last screen. Finally I had a reset tag that could be scanned to reset everything and go back to the start screen.
 
 SYSTEM DIAGRAM
-
+![Image description](https://github.com/Diya-Gupta/Intro-to-IM/blob/master/final_project/IMG_20191214_102343.jpg)
 
 IMPORTANT PARTS
 1. RFID tags
