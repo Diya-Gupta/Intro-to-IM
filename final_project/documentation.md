@@ -17,7 +17,7 @@ PICTURES OF ELECTRONICS
 
 CODE
 
-[Processing](Final_Project/Final.pde)
+[Processing](Final/Final.pde)
 
 HOW MY PROJECT WORKS AND HOW I BUILT IT
 
